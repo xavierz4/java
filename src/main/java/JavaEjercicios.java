@@ -1,12 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+ Construir un programa que visualice por pantalla todos los caracteres correspondientes a letras
+minúsculas
 
-/**
- *
- * @author xavierz
  */
 public class JavaEjercicios {
 
