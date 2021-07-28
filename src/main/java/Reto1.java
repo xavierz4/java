@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 /*
- RETO 1 MINTIC
+ RETO 1 MINTIC 2022
  */
 
 /**
