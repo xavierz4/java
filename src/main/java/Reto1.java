@@ -2,9 +2,7 @@
 import java.util.Scanner;
 
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ RETO 1 MINTIC
  */
 
 /**
@@ -25,9 +23,7 @@ public class Reto1 {
         String nivel = ("");
         double primerMes = sc.nextInt();
         double segundoMes = primerMes * 2 + 4;
-        double quintaPrimerMes = primerMes / 5;
-        double quintaSegundoMes = segundoMes / 5;
-        double tercerMes =  quintaPrimerMes + quintaSegundoMes;
+        double tercerMes =  (primerMes + segundoMes) / 5;
         
         
         if(tercerMes >= 0 && tercerMes <= 20){
